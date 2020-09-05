@@ -27,3 +27,5 @@ If you want to restore without setting your nonce with halo michael's tool you c
 App by 80036nd
 
 Generator Auto Setter by @halo_michael
+
+Patches by GeoSn0w (Idevice Central)
