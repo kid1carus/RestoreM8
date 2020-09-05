@@ -28,4 +28,4 @@ App by 80036nd
 
 Generator Auto Setter by @halo_michael
 
-Patches by GeoSn0w (Idevice Central)
+Patches by GeoSn0w (iDevice Central)
